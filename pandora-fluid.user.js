@@ -1,8 +1,8 @@
 /* jquery comes along with the page */
 
 //for auto sign in
-var pandoraEmail = 'your@pandora.email';
-var pandoraPass = 'your-pandora-password';
+var pandoraEmail = 'seth.macpherson@gmail.com';
+var pandoraPass = 'neverland4fr';
 
 //a couple styles to make the page layout more compactly
 $("#brandingBar .rightcolumn").css('right', '210px !important');
