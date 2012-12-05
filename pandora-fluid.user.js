@@ -2,7 +2,7 @@
 
 //for auto sign in
 var pandoraEmail = 'seth.macpherson@gmail.com';
-var pandoraPass = 'neverland4fr';
+var pandoraPass = '';
 
 //a couple styles to make the page layout more compactly
 $("#brandingBar .rightcolumn").css('right', '210px !important');
